@@ -2,5 +2,11 @@ build/
 sdkconfig
 sdkconfig.old
 *.gitignore
-/*.devcontainer
-/*.vscode
+/.devcontainer
+/.vscode
+/.vscode
+*.zip
+*.json
+*.gitignore
+*.rviz
+*.world
